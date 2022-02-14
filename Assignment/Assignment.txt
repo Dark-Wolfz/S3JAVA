@@ -1,0 +1,104 @@
+Enter roll no :
+51
+Enter Name : 
+Shiwine
+Enter Phone no : 
+67887657
+Enter age : 
+23
+Enter CGPA : 
+8
+Enter roll no : 
+52
+Enter Name : 
+dfg
+Enter Phone no : 
+456
+Enter age : 
+23
+Enter CGPA : 
+7
+Enter roll no : 
+67
+Enter Name : 
+fghf
+Enter Phone no : 
+87990078
+Enter age : 
+23
+Enter CGPA : 
+8
+Enter roll no : 
+54
+Enter Name : 
+hdhgfj
+Enter Phone no : 
+463489545
+Enter age : 
+23
+Enter CGPA : 
+6
+Enter roll no : 
+55
+Enter Name : 
+sooraj               
+Enter Phone no : 
+6458475
+Enter age : 
+34
+Enter CGPA : 
+6
+Enter roll no : 
+56
+Enter Name : 
+shiwi
+Enter Phone no : 
+346723567
+Enter age : 
+23
+Enter CGPA : 
+8
+Enter roll no : 
+59
+Enter Name : 
+vishal
+Enter Phone no : 
+7788990
+Enter age : 
+21
+Enter CGPA : 
+9
+Enter roll no : 
+36
+Enter Name : 
+leo
+Enter Phone no : 
+5456778
+Enter age : 
+12
+Enter CGPA : 
+8
+Enter roll no : 
+50
+Enter Name : 
+samu
+Enter Phone no : 
+57489346
+Enter age : 
+35
+Enter CGPA : 
+7
+Enter roll no : 
+45
+Enter Name : 
+sdhfkjh
+Enter Phone no : 
+34545354
+Enter age : 
+23 
+Enter CGPA : 
+5
+Data are:- 
+Name of the student with highest CGPA : vishal
+Phone no. of Anu : 67887657
+Roll no. of youngest student : 36
